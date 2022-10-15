@@ -14,6 +14,7 @@ $modules{$_} = $_ for qw(
   FFI::Build::MM
   FFI::Platypus
   Test2::V0
+  YAML
 );
 
 

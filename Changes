@@ -2,6 +2,9 @@ Revision history for {{$dist->name}}
 
 {{$NEXT}}
 
+0.02      2022-10-15 21:01:48 -0600
+  - Fix dependencies
+
 0.01      2022-10-15 15:00:31 -0600
   - initial version
 

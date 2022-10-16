@@ -11,8 +11,10 @@ my $post_diag;
 
 $modules{$_} = $_ for qw(
   ExtUtils::MakeMaker
+  FFI::Build::File::Cargo
   FFI::Build::MM
   FFI::Platypus
+  FFI::Platypus::Lang::Rust
   Test2::V0
   YAML
 );

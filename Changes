@@ -1,6 +1,8 @@
 Revision history for {{$dist->name}}
 
 {{$NEXT}}
+  - Fix bug where binaries were incorrectly
+    included in dist tarball
 
 0.02      2022-10-15 21:01:48 -0600
   - Fix dependencies

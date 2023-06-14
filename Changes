@@ -1,6 +1,8 @@
 Revision history for {{$dist->name}}
 
 {{$NEXT}}
+
+0.05      2023-06-14 17:19:47 -0600
   - Use `*std::os::raw::c_char` instead of `*i8`
     for C strings.  This is more portable and fixes
     the build on Linux Arm64 and probably other

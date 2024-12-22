@@ -2,3 +2,7 @@ Acme-Color-Rust-*
 /.build/
 *.swp
 /ffi/_build/
+/Acme-Color-Rust-*
+/.build
+*.old
+*.orig
